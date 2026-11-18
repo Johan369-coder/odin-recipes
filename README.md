@@ -1,0 +1,1 @@
+This project is a simple recipes website for demonstrating HTML skills such as links.
